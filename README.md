@@ -36,8 +36,8 @@ Be creative and have fun!
 ### Peer Review
 
 
-**Reviewer:** 
+**Reviewer: Thao Vang** 
  
 
-**Reviewer Notes:** 
+**Reviewer Notes: looks nice, links work, the only thing i would say is that i cant really distinguish Bold white from regular or at least its hard.** 
  

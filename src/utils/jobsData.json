@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "company": "Turing",
+      "website": "https://www.turing.com/",
+      "jobLink": "https://www.turing.com/jobs/remote-react-js-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "description": "Remote React Developer for elite U.S. companies.",
+      "whyIWantToWorkThere": "I admire Turing's mission of unlocking global tech talent and providing remote opportunities with high-growth U.S. companies. Their focus on career development and flexibility strongly aligns with my goals.",
+      "currentStackFit": true,
+      "newSkillsNeeded": ["Advanced API architecture", "Cross-functional team collaboration"],
+      "goals": "Gain experience in full lifecycle web development, improve scalability and performance of production apps, and grow in a fast-paced global environment.",
+      "skillsIFit": ["React", "JavaScript", "HTML", "CSS", "REST APIs"],
+      "image": "/turing.jpg"
+    },
+    {
+      "id": 2,
+      "company": "CSP Labs",
+      "website": "https://csplabs.com/",
+      "jobLink": "https://calspl.bamboohr.com/careers/103",
+      "description": "Junior Developer role focused on automation and efficiency in a lab setting.",
+      "whyIWantToWorkThere": "The hands-on and collaborative environment in a lab setting is appealing, especially where software directly improves scientific workflows. Plus, it's local to Sacramento.",
+      "currentStackFit": true,
+      "newSkillsNeeded": ["AWS", "Data formatting", "Python scripting"],
+      "goals": "Contribute to automation projects, integrate AI tools into practical applications, and expand backend deployment knowledge.",
+      "skillsIFit": ["JavaScript", "HTML", "CSS", "Python", "REST APIs"],
+      "image": "/csp.png"
+    },
+    {
+      "id": 3,
+      "company": "Quick Quack Car Wash",
+      "website": "https://www.dontdrivedirty.com/",
+      "jobLink": "https://quickquack.rec.pro.ukg.net/QUI1500QUQ/JobBoard/5614099b-4051-42cf-9349-861323a89c7c/OpportunityDetail?opportunityId=4065181f-87a2-491b-afe9-f929f948aaf8&postingId=6f21270b-532d-4932-a71f-b8cf25a241fd",
+      "description": "Android Developer with focus on customer app features and APIs.",
+      "whyIWantToWorkThere": "I like the idea of working on consumer tech that's accessible and impactful, and contributing to a local company's growth in tech.",
+      "currentStackFit": false,
+      "newSkillsNeeded": ["Kotlin", "Android Jetpack Compose", "Android app lifecycle"],
+      "goals": "Learn mobile development, improve UX design for apps, and work within agile sprint processes.",
+      "skillsIFit": ["JSON", "REST APIs", "Team collaboration", "Git"],
+      "image": "/quack.png"
+    },
+    {
+      "id": 4,
+      "company": "DataAnnotation",
+      "website": "https://www.dataannotation.tech/?utm_medium=social&utm_source=li&utm_campaign=pagelink",
+      "jobLink": "https://app.dataannotation.tech/worker_signup?projects=PROG_SA&worker_src=L&utm_source=linkedin&utm_medium=listing&utm_campaign=coder&utm_adgroup=software_developer&utm_content=rancho_cucamonga_ca",
+      "description": "AI Training Assistant – Evaluate and improve coding chatbots.",
+      "whyIWantToWorkThere": "I’m fascinated by AI and language models, and contributing to chatbot improvement sounds like a great use of my programming and communication skills.",
+      "currentStackFit": true,
+      "newSkillsNeeded": ["Problem generation", "Code evaluation techniques"],
+      "goals": "Develop stronger code review habits, contribute to AI training, and improve problem-solving articulation.",
+      "skillsIFit": ["JavaScript", "Python", "HTML", "React", "LeetCode-style challenges"],
+      "image": "/dataAnnotation.jpg"
+    },
+    {
+        "id": 5,
+        "company": "Disney Entertainment & ESPN Technology",
+        "website": "https://www.dgepress.com/",
+        "jobLink": "https://www.disneycareers.com/en/job/-/-/391/79879363328",
+        "description": "Software Engineer II (Rust) for Living Room Devices – Build cross-platform native client apps for Disney+, Hulu, ESPN, and more.",
+        "whyIWantToWorkThere": "Even though I don’t meet the requirements, working at Disney would be a dream. Their impact, scale, and focus on innovation in entertainment tech are incredible. I’d love to contribute to tools that millions interact with daily.",
+        "currentStackFit": false,
+        "newSkillsNeeded": ["Rust", "C/C++", "Cross-platform native development", "Embedded systems"],
+        "goals": "Learn systems-level programming, contribute to major media platforms, and push the limits of UX on large-scale devices.",
+        "skillsIFit": ["Basic Git workflow", "Software collaboration", "Problem solving", "Interest in Rust and embedded development"],
+        "image": "/disney.jpeg"
+      }
+  ]
